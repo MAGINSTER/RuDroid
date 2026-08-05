@@ -1,0 +1,95 @@
+{
+  "METADATA_VERSION": 20002,
+  "allow_disabled_algorithms": false,
+  "minecraft-26-40-05-arm64-v8a-xbox-servers-compressed.apk": {
+    "hash": "10c8e08ec1d22e92e55cdc0c1d12ee04837398beabbc7e77f57a3333ecacd503",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "com.android.vending.CHECK_LICENSE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        32
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "com.android.vending.BILLING",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "com.mojang.minecraftpe.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "480": "res/drawable-xxhdpi-v4/icon.png"
+    },
+    "icons": {
+      "480": "com.mojang.minecraftpe.972604005.png",
+      "0": "com.mojang.minecraftpe.972604005.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.mojang.minecraftpe",
+    "versionCode": 972604005,
+    "name": "Minecraft",
+    "versionName": "1.26.40.5",
+    "minSdkVersion": 29,
+    "targetSdkVersion": 36,
+    "nativecode": [
+      "arm64-v8a"
+    ],
+    "sig": "fe2a7bdc383031b223e85fcfb6322873",
+    "signer": "3d59c1fa1432ce1b316807b600a1bc6bf2ea1b57eca6a6bfb4f18316cbdcd242",
+    "size": 398418705,
+    "apkName": "minecraft-26-40-05-arm64-v8a-xbox-servers-compressed.apk",
+    "icon": "com.mojang.minecraftpe.972604005.png",
+    "added": 1785902964.524969
+  }
+}
