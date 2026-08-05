@@ -1,9 +1,10 @@
-AuthorName: ''
+AuthorName: 'Mojang'
 Categories:
-- RuDroid
-CurrentVersionCode: 2147483647
+- Игры
+CurrentVersion: '1.26.40.05'
+CurrentVersionCode: 264005
 IssueTracker: ''
-Name: Minecraft
+Name: Minecraft (RuDroid)
 SourceCode: ''
-Summary: ''
-WebSite: ''
+Summary: 'Легендарная песочница с поддержкой Xbox серверов'
+WebSite: 'https://minecraft.net'
