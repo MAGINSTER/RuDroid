@@ -52,7 +52,7 @@ sdk_path: /usr/lib/android-sdk
 
 # Canonical URL of the repositoy, needs to end in /repo. Is is used to identity
 # the repo in the client, as well.
-# repo_url: https://MyFirstFDroidRepo.org/fdroid/repo
+repo_url: https://maginster.github.io/RuDroid/repo
 repo_name: RuDroid Российский магазин поддерживающийся сообществом. Не поддерживается Правительством РФ.
 repo_description: >-
   RuDroid — это независимый каталог Android-приложений, созданный и поддерживаемый исключительно силами русскоязычного сообщества. 
