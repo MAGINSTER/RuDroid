@@ -55,11 +55,11 @@ sdk_path: /usr/lib/android-sdk
 # repo_url: https://MyFirstFDroidRepo.org/fdroid/repo
 repo_name: RuDroid Российский магазин поддерживающийся сообществом. Не поддерживается Правительством РФ.
 # repo_description: >-
-#   This is a repository of apps to be used with F-Droid. Applications
-#   in this repository are either official binaries built by the
-#   original application developers, or are binaries built from source
-#   by the admin of f-droid.org using the tools on
-#   https://gitlab.com/fdroid.
+repo_description: >-
+  RuDroid — это независимый каталог Android-приложений, созданный и поддерживаемый исключительно силами русскоязычного сообщества. 
+  Проект полностью автономен, существует на некоммерческой основе и принципиально не поддерживается Правительством РФ, министерствами или государственными структурами.
+  Наша цель — обеспечить пользователям свободный, безопасный и стабильный доступ к полезному софту без цензуры, санкционных ограничений и корпоративного контроля. 
+  Все приложения в каталоге проходят проверку, не содержат скрытых угроз и устанавливаются напрямую из проверенных бинарных сборок разработчиков.
 
 # As above, but for the archive repo.
 #
