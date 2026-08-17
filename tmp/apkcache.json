@@ -75,7 +75,7 @@
       "480": "com.mojang.minecraftpe.972604005.png",
       "0": "com.mojang.minecraftpe.972604005.png"
     },
-    "antiFeatures": [],
+    "antiFeatures": {},
     "packageName": "com.mojang.minecraftpe",
     "versionCode": 972604005,
     "name": "Minecraft",
@@ -532,7 +532,7 @@
       "160": "com.vkontakte.android.56343.png",
       "0": "com.vkontakte.android.56343.png"
     },
-    "antiFeatures": [],
+    "antiFeatures": {},
     "packageName": "com.vkontakte.android",
     "versionCode": 56343,
     "name": "VK",
@@ -990,7 +990,7 @@
       "160": "com.vkontakte.android.56796.png",
       "0": "com.vkontakte.android.56796.png"
     },
-    "antiFeatures": [],
+    "antiFeatures": {},
     "packageName": "com.vkontakte.android",
     "versionCode": 56796,
     "name": "VK",
@@ -1007,5 +1007,17 @@
     "apkName": "com.vkontakte.android_56796_rs.apk",
     "icon": "com.vkontakte.android.56796.png",
     "added": 1786712998.821529
+  },
+  "categories.txt": {
+    "name": "categories",
+    "apkName": "categories.txt",
+    "hash": "83898a8bab9b08afb15bdb9efcca3d9b7d14bd2447b08374c6d9d3a308eedd97",
+    "hashType": "sha256",
+    "ipfsCIDv1": null,
+    "versionCode": 0,
+    "versionName": "83898a8",
+    "packageName": "83898a8bab9b08afb15bdb9efcca3d9b7d14bd2447b08374c6d9d3a308eedd97",
+    "size": 17,
+    "added": 1786965076.506824
   }
 }
