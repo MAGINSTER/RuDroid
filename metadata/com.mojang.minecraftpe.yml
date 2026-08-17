@@ -1,4 +1,4 @@
-WebSite: "https://github.io"
+WebSite: "https://github.com"
 Name: "Minecraft (RuDroid)"
 Summary: "Легендарная песочница"
 Description: "С поддержкой Xbox серверов."
@@ -6,7 +6,7 @@ Categories:
   - Games
 
 # Указываем, что готовый файл берется из внешнего источника
-Binaries: https://github.com/MAGINSTER/RuDroid/releases/tag/26.44.03
+Binaries: https://github.com/MAGINSTER/RuDroid/releases/download/26.44.03/minecraft-26-44-03-arm64-v8a-xbox-servers-compressed.apk
 
 Builds:
   - versionName: "26.40.05"
