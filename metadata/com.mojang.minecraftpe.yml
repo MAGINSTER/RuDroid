@@ -6,7 +6,7 @@ Categories:
   - Games
 
 # Указываем, что готовый файл берется из внешнего источника
-Binaries: https://github.com
+Binaries: https://github.com/MAGINSTER/RuDroid/releases/tag/26.44.03
 
 Builds:
   - versionName: "26.40.05"
