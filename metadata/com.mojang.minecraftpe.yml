@@ -1,10 +1,14 @@
-AuthorName: 'Mojang'
+WebSite: "https://github.io"
+Name: "Minecraft (RuDroid)"
+Summary: "Легендарная песочница"
+Description: "С поддержкой Xbox серверов."
 Categories:
-- Игры
-CurrentVersion: '1.26.40.05'
-CurrentVersionCode: 264005
-IssueTracker: ''
-Name: Minecraft (RuDroid)
-SourceCode: ''
-Summary: 'Легендарная песочница с поддержкой Xbox серверов'
-WebSite: 'https://minecraft.net'
+  - Games
+
+# Указываем, что готовый файл берется из внешнего источника
+Binaries: https://github.com
+
+Builds:
+  - versionName: "26.40.05"
+    versionCode: 264005
+    commit: main
