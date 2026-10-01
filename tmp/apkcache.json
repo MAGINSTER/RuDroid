@@ -75,7 +75,7 @@
       "480": "com.mojang.minecraftpe.972604005.png",
       "0": "com.mojang.minecraftpe.972604005.png"
     },
-    "antiFeatures": [],
+    "antiFeatures": {},
     "packageName": "com.mojang.minecraftpe",
     "versionCode": 972604005,
     "name": "Minecraft",
@@ -532,7 +532,7 @@
       "160": "com.vkontakte.android.56343.png",
       "0": "com.vkontakte.android.56343.png"
     },
-    "antiFeatures": [],
+    "antiFeatures": {},
     "packageName": "com.vkontakte.android",
     "versionCode": 56343,
     "name": "VK",
@@ -990,7 +990,7 @@
       "160": "com.vkontakte.android.56796.png",
       "0": "com.vkontakte.android.56796.png"
     },
-    "antiFeatures": [],
+    "antiFeatures": {},
     "packageName": "com.vkontakte.android",
     "versionCode": 56796,
     "name": "VK",
@@ -1007,5 +1007,71 @@
     "apkName": "com.vkontakte.android_56796_rs.apk",
     "icon": "com.vkontakte.android.56796.png",
     "added": 1786712998.821529
+  },
+  "v1.2.3-release-universal.apk": {
+    "hash": "324f7e1e50800a71add01216201d60c4e731f22d017c1615960ec5cb6dcff223",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE_SPECIAL_USE",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "com.amurcanov.tgwsproxy.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.amurcanov.tgwsproxy",
+    "versionCode": 123,
+    "name": "Telegram WS Proxy",
+    "versionName": "1.2.3",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 35,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a"
+    ],
+    "sig": "4e096acbef8a381c8c2c3e0362500f64",
+    "signer": "1f3c1909410147bac6cfa34f532756e54435553c5861cd17e8da99405f8e46a2",
+    "size": 4847547,
+    "apkName": "v1.2.3-release-universal.apk",
+    "added": 1790880412.19872
+  },
+  "categories.txt": {
+    "name": "categories",
+    "apkName": "categories.txt",
+    "hash": "83898a8bab9b08afb15bdb9efcca3d9b7d14bd2447b08374c6d9d3a308eedd97",
+    "hashType": "sha256",
+    "ipfsCIDv1": null,
+    "versionCode": 0,
+    "versionName": "83898a8",
+    "packageName": "83898a8bab9b08afb15bdb9efcca3d9b7d14bd2447b08374c6d9d3a308eedd97",
+    "size": 17,
+    "added": 1790880412.20662
   }
 }
